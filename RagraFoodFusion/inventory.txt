@@ -22,8 +22,8 @@ ItemID/ItemName/Price(PKR)/Quantity
 121/HotnSourSoup/600/100
 122/ChineseSoup/500/100
 123/RagraSpecialSoup/700/100
-124/MoltenLavaCake/650/97
-125/GulabJamun/500/40
+124/MoltenLavaCake/650/96
+125/GulabJamun/500/39
 126/BrowniewithIceCream/600/98
 127/IceCream/300/89
 128/SoftDrinks/300/100

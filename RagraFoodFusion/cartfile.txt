@@ -96,3 +96,5 @@ zuharbutt: Gulab Jamun -> 249
 zuharbutt: Ice Cream -> 2
 oldaccountofduazuhar: Kids Menu -> 10
 oldaccountofduazuhar: Kids Menu -> 1
+oldaccountofduazuhar: Gulab Jamun -> 1
+oldaccountofduazuhar: Molten Lava Cake -> 1
