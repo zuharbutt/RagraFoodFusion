@@ -1,0 +1,36 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts and directories
+x64/
+x86/
+Debug/
+Release/
+Project12/x64/
+Project12/Debug/
+Project12/Release/
+
+# Compiled files
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.idb
+*.exe
+*.manifest
+*.res
+*.resources
+*.cache
+*.spec
+
+# Local application state files
+customerlogins.txt
+cart.txt
+grandtotal.txt
+orderhistory.txt
+sales.txt

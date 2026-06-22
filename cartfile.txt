@@ -1,0 +1,98 @@
+aqsa: Mozzarella Sticks -> 3
+aqsa: Garlic Bread -> 3
+aqsa: Halwa Poori Nashta -> 3
+aqsa: Kids Menu -> 100
+aqsa: Chicken Tikka Pizza -> 2
+aqsa: Chicken Patty Burger -> 2
+aqsa: Classic Beef Burger -> 3
+aqsa: Classic Beef Burger -> 4
+aqsa: Classic Beef Burger -> 2
+aqsa: Classic Beef Burger -> 3
+aqsa: Classic Beef Burger -> 2
+aqsa: Anday Wala Burger -> 2
+aqsa: Classic Beef Burger -> 2
+aqsa: Anday Wala Burger -> 3
+emo: Classic Beef Burger -> 2
+emo: Chicken Patty Burger -> 2
+emo: Chicken Zinger Burger -> 1
+emo: Anday Wala Burger -> 2
+emo: Crown Crust Pizza -> 1
+emo: Chicken Fajita Pizza -> 1
+emo: Ragra Special Pizza -> 1
+emo: Chicken Zinger Burger -> 1
+ramsha: Molten Lava Cake -> 1
+ramsha: Classic Beef Burger -> 2
+emanfat: Classic Beef Burger -> 2
+emanfat: Chicken Tikka Pizza -> 1
+emanfat: Gulab Jamun -> 1
+emanfat: Crown Crust Pizza -> 2
+emanfat: Chicken Tikka Pizza -> 2
+emanfat: Chicken Fajita Pizza -> 2
+emanfat: Ragra Special Pizza -> 1
+emanfat: Halwa Poori Nashta -> 3
+emanfat: Classic Beef Burger -> 1
+emanfat: Classic Beef Burger -> 2
+emanfat: Classic Beef Burger -> 2
+emanfat: Chicken Tikka Pizza -> 3
+emanfat: Chicken Karahi -> 1
+emanfat: Chicken Tikka Pizza -> 1
+emanfat: Classic Beef Burger -> 3
+emanfat: Anday Wala Burger -> 3
+emanfat: Classic Beef Burger -> 3
+emanfat: Classic Beef Burger -> 2
+emanfat: Anday Wala Burger -> 3
+emanfat: Classic Beef Burger -> 1
+zuharfaisal: Gulab Jamun -> 1
+zuharfaisal: Classic Beef Burger -> 1
+annusshahzad: Chicken Tikka Pizza -> 1
+annusshahzad: Classic Beef Burger -> 3
+annusshahzad: Anday Wala Burger -> 3
+annusshahzad: Chicken Karahi -> 1
+annusshahzad: Brownie with Ice Cream -> 30
+annusshahzad: Fish Crackers -> 20
+annusshahzad: Mozzarella Sticks -> 20
+annusshahzad: French Fries -> 19
+annusshahzad: Garlic Bread -> 20
+annusshahzad: Classic Beef Burger -> 11
+annusshahzad: Classic Beef Burger -> 2
+annusshahzad: Dahi Bhallay -> 7
+annusshahzad: Dahi Bhallay -> 2
+annusshahzad: Gulab Jamun -> 5
+annusshahzad: Ice Cream -> 1
+annusshahzad: Chicken Karahi -> 2
+annusshahzad: Chicken Tikka Pizza -> 2
+annusshahzad: Chicken Biryani -> 10
+annusshahzad: Dahi Bhallay -> 1
+annusshahzad: Gulab Jamun -> 2
+annusshahzad: Molten Lava Cake -> 2
+annusshahzad: Ice Cream -> 2
+annusshahzad: Ice Cream -> 2
+annusshahzad: Molten Lava Cake -> 1
+annusshahzad: Kids Menu -> 2
+annusshahzad: Cheese Omelette Breakfast -> 1
+annusshahzad: Dahi Bhallay -> 3
+annusshahzad: Dahi Bhallay -> 5
+annusshahzad: Dahi Bhallay -> 3
+annusshahzad: Dahi Bhallay -> 2
+annusshahzad: Dahi Bhallay -> 2
+annusshahzad: Chicken Karahi -> 1
+annusshahzad: Chicken Biryani -> 2
+annusshahzad: Dahi Bhallay -> 2
+annusshahzad: Dahi Bhallay -> 4
+aqsakhan: Brownie with Ice Cream -> 2
+aqsakhan: Gulab Jamun -> 3
+aqsakhan: Classic Beef Burger -> 2
+aqsakhan: Chicken Fajita Pizza -> 2
+aqsakhan: Chicken Tikka Pizza -> 3
+zuharbutt: Classic Beef Burger -> 2
+zuharbutt: Chicken Zinger Burger -> 2
+zuharbutt: Classic Beef Burger -> 1
+zuharbutt: Ice Cream -> 1
+zuharbutt: Anday Wala Burger -> 1
+zuharbutt: Ice Cream -> 2
+zuharbutt: Classic Beef Burger -> 2
+zuharbutt: Ice Cream -> 1
+zuharbutt: Gulab Jamun -> 249
+zuharbutt: Ice Cream -> 2
+oldaccountofduazuhar: Kids Menu -> 10
+oldaccountofduazuhar: Kids Menu -> 1
